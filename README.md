@@ -2,5 +2,5 @@ completion for Application Development 3rd Year BSIT
 
 Members:
 
-Lingling, Ramon Benedick
+Lingling, Ramon Benedick <br>
 Ando, Joshua
